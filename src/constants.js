@@ -146,8 +146,8 @@ export const education = [
     school: "NIST, Balasore",
     date: "2019 - 2021",
     grade: "84.17%",
-    desc: "I completed my Bachelor's degree in Computer Science (B.Sc.) from BSA College, Mathura. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at BSA College allowed me to work on projects that applied theoretical concepts to real-world problems.",
-    degree: "Bachelor of Science - BSC (Computer Science)",
+    desc: "I completed my Higher Secondary education in Physics, Chemistry, Mathematics, and Biology from NIST College, Balasore, under the State Board of Odisha (CHSE). This laid a strong foundation in analytical thinking, problem-solving, and scientific principles, which prepared me for advanced studies in computer science and engineering.",
+    degree: "Higher Secondary - CHSE (PCM & Biology)",
   },
 ];
 
