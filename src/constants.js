@@ -33,6 +33,7 @@ import nistlogo from "./assets/education_logo/nist_logo.png";
 
 // Project Section Logo's
 import studyNotion from "./assets/work_logo/Study-Notion.png";
+import urlShortener from "./assets/work_logo/Url-Shortener.png";
 import netflixGPT from "./assets/work_logo/Netflix-GPT.png";
 
 export const SkillsInfo = [
@@ -174,6 +175,35 @@ export const projects = [
   },
   {
     id: 1,
+    title: "URL Shortener",
+    description:
+      "A full-stack URL Shortener application built with Spring Boot (backend) and React (frontend). It provides secure authentication and authorization using JWT and Spring Security, efficient data persistence with Spring Data JPA and PostgreSQL, and containerized deployment using Docker. The frontend is developed with React, Vite, Tailwind CSS, and enhanced with Material UI for a modern UI/UX. Features include creating, managing, and tracking shortened URLs with seamless API integration via Axios and React Query, along with form handling using React Hook Form. The project is deployed on Netlify (frontend), Render (backend), and Neon Tech (database), ensuring a fully production-ready experience.",
+    image: urlShortener,
+    tags: [
+      "React",
+      "Vite",
+      "Tailwind CSS",
+      "Material UI",
+      "Spring Boot",
+      "Spring Security",
+      "Spring Data JPA",
+      "PostgreSQL",
+      "JWT",
+      "Lombok",
+      "Maven",
+      "Axios",
+      "React Query",
+      "React Hook Form",
+      "Docker",
+      "Render",
+      "Neon Tech",
+      "Netlify",
+    ],
+    github: "https://github.com/ganesh420-dot/url-shortener-project-main",
+    webapp: "https://coruscating-kheer-2f5d19.netlify.app/",
+  },
+  {
+    id: 2,
     title: "Netflix GPT",
     description:
       "A Netflix-inspired movie streaming web app that fetches and displays real-time data from TMDB (The Movie Database) API. Integrated with OpenAI GPT to provide intelligent, personalized movie recommendations based on user queries. Features include secure authentication, dynamic routing, responsive UI, and search functionality, delivering an immersive Netflix-like experience.",
