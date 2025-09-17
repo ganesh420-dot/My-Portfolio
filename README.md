@@ -1,59 +1,24 @@
-# 🌐 Animated Portfolio Website
+🌐 My Developer Portfolio
 
-A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. This project gained **27K+ views** on [YouTube]([https://youtube.com/your-video-link](https://youtu.be/ypSc8HEurGQ?si=yI3GJCye3sAKoemW)) – loved by developers and students for its modern design and clean code.
+Welcome to my personal portfolio website, where I showcase my skills, projects, and journey as a developer.
 
-## 🚀 Live Demo
+🔗 View Portfolio Live
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+<p align="left"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </p>
+📁 Features
 
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 💾 Vercel(for deployment)
+✨ Responsive Design – Optimized for mobile, tablet, and desktop.
+🎨 Modern UI – Built with Tailwind CSS for flexibility and style.
+⚛️ Clean Architecture – Modular React components for reusability.
+🧩 Smooth Animations – Scroll and hover effects for interactive experience.
+👨‍💻 Professional Sections – About, Skills, Projects, Contact & more.
+🎯 Easy Customization – Tailwind utility-first design makes updates effortless.
 
-## 📁 Features
+🚀 Deployment
 
-- Responsive design for all screen sizes 📱💻
-- Smooth scroll and animation effects ✨
-- Clean and modular React components 🧩
-- Easy to customize with Tailwind utility classes 🎯
-- Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
+This project is deployed on Vercel
+for fast, reliable, and free hosting.
 
-
-## 🧑‍💻 How to Use
-
-### 1. Clone the Repo
-
-```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
-cd your-repo-name
-````
-
-### 2. Install Dependencies
-
-```bash
-npm install
-```
-
-### 3. Run the App
-
-```bash
-npm start
-```
-
-### 4. Build for Production
-
-```bash
-npm run build
-```
-
-## 📹 YouTube Tutorial
-
-Watch the full build on YouTube:
-📺 [React Portfolio Website - 27K+ Views](https://youtu.be/ypSc8HEurGQ?si=winjJhc9qzNrCqLD)
-
-## 🌟 Credits
-
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
-If you like it, feel free to ⭐ this repository and share!
+🔥 This portfolio represents my skills, creativity, and journey as a developer. Always open to feedback and collaboration!
